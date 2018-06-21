@@ -1,4 +1,4 @@
-package com.carlopantaleo.entitycomparator;
+package com.github.carlopantaleo.entitycomparator;
 
 public class SampleEntity {
     private int intField;

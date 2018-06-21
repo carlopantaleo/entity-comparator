@@ -1,4 +1,4 @@
-package com.carlopantaleo.entitycomparator;
+package com.github.carlopantaleo.entitycomparator;
 
 import com.google.common.collect.Ordering;
 
