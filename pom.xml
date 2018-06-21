@@ -5,8 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.carlopantaleo</groupId>
     <artifactId>entity-comparator</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
+
+    <!-- Release with mvn clean release:prepare release:perform -->
 
     <name>Entity Comparator</name>
     <url>https://github.com/carlopantaleo/entity-comparator</url>
