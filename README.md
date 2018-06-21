@@ -45,7 +45,7 @@ ex2.setField2("b");
 
 EntityComparator<Example> ec = new EntityComparator<>(Example.class);
 ec.addComparingProperty("field1");
-assertEquals(0, ex1, ex2);
+assertEquals(0, ec.compare(ex1, ex2));
 ec.addComparingProperty("field2");
-assertEquals(-1, ex1, ex2);
+assertEquals(-1, ec.compare(ex1, ex2));
 ```
