@@ -13,14 +13,13 @@ A simple `Comparator` which lets you compare objects by dynamically choosing the
 
 ## Get it
 
-This library is not on Maven Central. Please get it using the
-[JitPack](https://jitpack.io/#carlopantaleo/entity-comparator/v1.0.0) repository.
+Add the latest version dependency to your POM:
 
 ```xml
 <dependency>
     <groupId>com.github.carlopantaleo</groupId>
     <artifactId>entity-comparator</artifactId>
-    <version>v1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
